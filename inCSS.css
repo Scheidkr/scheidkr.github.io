@@ -22,13 +22,6 @@ h2 {
   margin-left: 600px;
 }
 
-p {
-  font-family: verdana;
-  font-size: 20px;
-  background-color: #3399ff;
-  color: white;
-}
-
 .menu {
   background-color: #3399ff;
   overflow: hidden;
@@ -54,4 +47,36 @@ p {
 .menu a.active {
   background-color: #6600ff;
   color: white;
+}
+
+
+.wall {
+  font-family: verdana;
+  font-size: 20px;
+  background-color: #3399ff;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.homep {
+  padding-left: 300px;
+  padding-right: 400px;
+}
+
+.homepp {
+  padding-left: 290px;
+  padding-right: 390px;
+}
+
+.classp {
+  padding-left: 300px;
+  padding-right: 400px;
+}
+
+.aboutp {
+  padding-left: 300px;
+  padding-right: 400px;
 }
